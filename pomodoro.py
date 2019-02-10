@@ -1,5 +1,7 @@
 """
 Pomodoro Timer
+
+Enter time in minutes.  Display is in seconds.
 """
 
 from time import sleep
