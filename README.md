@@ -16,15 +16,18 @@
 * Make sure you have updated Python and added to path.  If you're on macOS/Linux, add your shebang line.  This does not use any non-standard packages because it is very simple, but if your attention span as bad or worse than mine (or close) it may be useful.  Because screw in-app purchaes or webapps being the only option.
 * Make your directory, open a terminal in it, and clone the link to it. Type:
 
+    `init git`
 
-  `init git`
+    `git clone https://github.com/hortw1991/Pomodoro-Timer.git`
 
-  `git clone https://github.com/hortw1991/Pomodoro-Timer.git`
-
-   Or fork it and do your thing, this is about convenience, not breakthrough. Then type:
+    Or fork it and do your thing, this is about convenience, not breakthrough. Then type:
   
-  `cd whereeveryouputit`
+    `cd whereeveryouputit`
 
-   If you're on Linux or macOS, type youre comman.
+    Go ahead and install the required packages (none, honestly, for this program?).
+    
+    `pip install -r requirements.txt`
 
-  `python pomodoro.py`
+    If you're on Linux or macOS, type your command.
+
+    `python pomodoro.py`
