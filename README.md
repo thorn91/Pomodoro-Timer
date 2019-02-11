@@ -13,7 +13,7 @@
 
 ## Instructions 4 Friends
 
-* Make sure you have updated Python and installed to path.  This does not use any non-standard packages because it is very simple, but if your attention span as bad or worse than mine (or close) it may be useful.  Because screw in-app purchaes or webapps being the only option.
+* Make sure you have updated Python and added to path.  If you're on macOS/Linux, add your shebang line.  This does not use any non-standard packages because it is very simple, but if your attention span as bad or worse than mine (or close) it may be useful.  Because screw in-app purchaes or webapps being the only option.
 * Make your directory, open a terminal in it, and clone the link to it. Type:
 
 
@@ -21,10 +21,10 @@
 
   `git clone https://github.com/hortw1991/Pomodoro-Timer.git`
 
-*  Or fork it and do your thing, this is about convenience, not breakthrough. Then: 
+   Or fork it and do your thing, this is about convenience, not breakthrough. Then type:
   
-  
-    `cd whereeveryouputit`
+  `cd whereeveryouputit`
 
+   If you're on Linux or macOS, type youre comman.
 
-    `python pomodoro.py`
+  `python pomodoro.py`
