@@ -13,7 +13,7 @@
 
 ## Instructions 4 Friends
 
-* Make sure you have updated Python and installed to path.  This does not use any non-standard packages because it is very simple, but if your attention span is worse than an ant, it may be useful.  Because screw in-app purchaes or webapps being the only option.
+* Make sure you have updated Python and installed to path.  This does not use any non-standard packages because it is very simple, but if your attention span as bad or worse than mine (or close) it may be useful.  Because screw in-app purchaes or webapps being the only option.
 * Make your directory, open a terminal in it, and clone the link to it. Type:
   * `init git`
   *  `git clone https://github.com/hortw1991/Pomodoro-Timer.git`
