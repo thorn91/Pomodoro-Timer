@@ -30,6 +30,6 @@ Put in your time in minutes, see the countdown in seconds, take automatic breaks
 
     `pip install -r requirements.txt`
 
-    If you're on Linux or macOS, type your command.
+    If you're on Linux or macOS, type your command, otherwise:
 
     `python pomodoro.py`
