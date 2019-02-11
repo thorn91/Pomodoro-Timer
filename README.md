@@ -15,7 +15,7 @@ Put in your time in minutes, see the countdown in seconds, take automatic breaks
 ## Instructions 4 Install (assuming you're starting from scratch)
 
 * Make sure you have updated Python and added to path.  If you're on macOS/Linux, add your shebang line to the very top `#!/usr/bin/env python`
-* This does not use any non-standard packages because it is very simple, but if your attention span as bad or worse than mine (or close) it may be useful.  Because screw in-app purchaes or webapps being the only option.
+* This does not use any non-standard packages because it is very simple, but if your attention is span as bad or worse than mine (or close) it may be useful as opposed to some website getting lost in tab # 12 out of 400.
 * Make your directory, open a terminal in it, and clone the link to it. Type:
 
     `init git`
