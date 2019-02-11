@@ -12,7 +12,7 @@ Put in your time in minutes, see the countdown in seconds, take automatic breaks
 
 * Python was used because I didn't have Java or VisualStudio installed on this laptop, so just deal with the interface.  You only have to put in 1 number.  It's the best my minimum effort will get you.
 
-## Instructions 4 Friends
+## Instructions 4 Install (assuming you're starting from scratch)
 
 * Make sure you have updated Python and added to path.  If you're on macOS/Linux, add your shebang line to the very top `#!/usr/bin/env python`
 * This does not use any non-standard packages because it is very simple, but if your attention span as bad or worse than mine (or close) it may be useful.  Because screw in-app purchaes or webapps being the only option.
