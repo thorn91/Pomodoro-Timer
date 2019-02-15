@@ -12,6 +12,7 @@ class Pomodoro:
     def __init__(self):
         self.work_time = 0  # default time
         self.root = Tk()
+        self.root.configure(background='black')
         self.timer = StringVar()
         self.cycle_count = 0
 
@@ -74,6 +75,8 @@ class Pomodoro:
             countdown_time -= 1
             self.timer_label.config(text=countdown_time)
             self.root.update()
+            messagebox.showinfo(title="Timer Done", message="Timer done!")
+
 
     def finish_cycles(self):
         messagebox.showinfo(title="Timer Done", message="You're done!")
